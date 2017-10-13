@@ -1,7 +1,7 @@
 #write your code here
 timer = 5
 
-def countdown
+def countdown(timer)
   while timer > 0
     puts "#{timer} SECOND(S)!"
     timer -= 1
